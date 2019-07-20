@@ -8,8 +8,8 @@
 ### DJI Video 2
 [![DJI Video 2](https://github.com/jwangjie/UAV-vehicle-tracking/blob/master/DJI_0013_tra_000069.jpg)](https://youtu.be/tP-9Lvj5jlE)
 
-### DJI Video 2
-[![DJI Video 3](https://github.com/jwangjie/UAV-vehicle-tracking/blob/master/M0101_046.jpg)](https://youtu.be/qEL3hQJ5Q-c)
+### DJI Video 3
+[![DJI Video 3](https://github.com/jwangjie/UAV-vehicle-tracking/blob/master/DJI_0001_tra_002267.jpg)](https://youtu.be/qEL3hQJ5Q-c)
 
 ### M0101 
 [![M0101](https://github.com/jwangjie/UAV-vehicle-tracking/blob/master/M0101_046.jpg)]()
