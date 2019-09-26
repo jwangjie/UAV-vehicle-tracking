@@ -2,10 +2,9 @@
 
 ### Testing video results of paper "Orientation- and Scale-Invariant Multi-Vehicle Detection and Tracking from Unmanned Aerial Videos". 
 
+[[Implementation]](https://jwangjie.github.io/publication/rsmdpi2019)
 [[Paper]](https://www.mdpi.com/2072-4292/11/18/2155)
 [[Poster]](https://jwangjie.github.io/publications/rsmdpi2019/DLRL2019.pdf)
-[[software]](https://github.com/jwangjie/Fine-tune-YOLOv3)
-[[Dataset]](https://github.com/jwangjie/UAV-Vehicle-Detection-Dataset)
 
 ###  Check videos by clicking on each image. 
 
