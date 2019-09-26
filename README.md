@@ -1,6 +1,13 @@
 # UAV-vehicle-tracking
 
-### Testing video results of paper [orientation- and Scale-Invariant Multi-Vehicle Detection and Tracking from Unmanned Aerial Videos](https://www.mdpi.com/2072-4292/11/18/2155). Check videos by clicking on the images. 
+### Testing video results of paper "Orientation- and Scale-Invariant Multi-Vehicle Detection and Tracking from Unmanned Aerial Videos". 
+
+[[Paper]](https://www.mdpi.com/2072-4292/11/18/2155)
+[[Poster]](https://jwangjie.github.io/publications/rsmdpi2019/DLRL2019.pdf)
+[[software]](https://github.com/jwangjie/Fine-tune-YOLOv3)
+[[Dataset]](https://github.com/jwangjie/UAV-Vehicle-Detection-Dataset)
+
+###  Check videos by clicking on each image. 
 
 ### DJI Video 1
 [![DJI Video 1](https://github.com/jwangjie/UAV-vehicle-tracking/blob/master/DJI_0006_tra_001784.jpg)](https://youtu.be/xAyq51XwnYc)
